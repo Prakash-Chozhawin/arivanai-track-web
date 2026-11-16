@@ -1,0 +1,178 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "voice": "ta-IN-PallaviNeural",
+      "rate": "-5%",
+      "stepLabel": "Step {n} of {total}",
+      "steps": [
+        {
+          "title": "Welcome",
+          "caption": "Hello! Welcome to ArivanAI Track. In this short guide, we will see how to use the app, step by step."
+        },
+        {
+          "title": "Sign in with OTP",
+          "caption": "First, enter your mobile number and tap Get OTP. Type the 6 digit OTP from the SMS, and tap Verify & Sign In. For now, the OTP is 123456.",
+          "speech": "First, enter your mobile number and tap Get OTP. Type the six digit OTP from the SMS, and tap Verify and Sign In. For now, the OTP is one, two, three, four, five, six."
+        },
+        {
+          "title": "Driver Details",
+          "caption": "When you sign in for the first time, fill in your name, licence number, vehicle type and vehicle number. Then tap Save & Continue. You do this only once.",
+          "speech": "When you sign in for the first time, fill in your name, licence number, vehicle type and vehicle number. Then tap Save and Continue. You do this only once."
+        },
+        {
+          "title": "Allow GPS and Camera",
+          "caption": "Next, tap Allow Access. GPS is for live tracking, and camera is for scanning the student QR code."
+        },
+        {
+          "title": "Choose Pickup or Drop",
+          "caption": "In the Home screen, choose your trip type. Pickup means you bring the students to school. Drop means you take them back to their stopping."
+        },
+        {
+          "title": "Watch Your Speed",
+          "caption": "This Current Speed card shows your vehicle speed. Green colour means safe speed. If GPS is off, just tap Turn on."
+        },
+        {
+          "title": "At Each Stopping",
+          "caption": "Once you reach the stopping, tap Onboard for each student who gets in the vehicle. After that, tap Continue Route."
+        },
+        {
+          "title": "Map a New Student",
+          "caption": "To add a new student, tap Map Student in the bottom menu. Keep the QR code inside the box. It will scan automatically."
+        },
+        {
+          "title": "Your Students",
+          "caption": "In the Students tab, you can see all your students, stopping wise. You can search by name and check their status."
+        },
+        {
+          "title": "Live Location",
+          "caption": "The Location tab shows your route map, and the next stopping with distance and time."
+        },
+        {
+          "title": "Profile",
+          "caption": "In Profile, you can edit your details, change Light or Dark theme, and see this guide again anytime. Thank you, drive safely!"
+        }
+      ]
+    },
+    {
+      "code": "ta",
+      "name": "தமிழ்",
+      "voice": "ta-IN-PallaviNeural",
+      "rate": "+0%",
+      "stepLabel": "படி {n} / {total}",
+      "steps": [
+        {
+          "title": "Welcome",
+          "caption": "Hi! ArivanAI Track-க்கு welcome. இந்த app-ஐ எப்படி use பண்றதுன்னு step by step பார்க்கலாம்.",
+          "speech": "ஹாய்! அறிவன் ஏ ஐ ட்ராக்குக்கு வெல்கம். இந்த ஆப்ப எப்படி யூஸ் பண்றதுன்னு, ஸ்டெப் பை ஸ்டெப்பா பார்க்கலாம்."
+        },
+        {
+          "title": "OTP வச்சு Sign in",
+          "caption": "First, உங்க mobile number type பண்ணி Get OTP click பண்ணுங்க. SMS-ல வர்ற 6 digit OTP-ஐ enter பண்ணி, Verify & Sign In click பண்ணுங்க. இப்போதைக்கு OTP 123456.",
+          "speech": "ஃபர்ஸ்ட், உங்க மொபைல் நம்பர் டைப் பண்ணி, கெட் ஓ டி பி கிளிக் பண்ணுங்க. எஸ் எம் எஸ்ல வர்ற சிக்ஸ் டிஜிட் ஓ டி பி-ய என்டர் பண்ணி, வெரிஃபை அண்ட் சைன் இன் கிளிக் பண்ணுங்க. இப்போதைக்கு ஓ டி பி, ஒன், டூ, த்ரீ, ஃபோர், ஃபைவ், சிக்ஸ்."
+        },
+        {
+          "title": "Driver Details",
+          "caption": "First time login பண்ணும்போது, உங்க name, licence number, vehicle type, vehicle number fill பண்ணி Save & Continue click பண்ணுங்க. இது one time மட்டும் தான்.",
+          "speech": "ஃபர்ஸ்ட் டைம் லாகின் பண்ணும்போது, உங்க நேம், லைசென்ஸ் நம்பர், வெஹிக்கிள் டைப், வெஹிக்கிள் நம்பர் ஃபில் பண்ணி, சேவ் அண்ட் கன்டின்யூ கிளிக் பண்ணுங்க. இது ஒன் டைம் மட்டும் தான்."
+        },
+        {
+          "title": "GPS, Camera Access",
+          "caption": "Next, Allow Access click பண்ணுங்க. GPS live tracking-க்கு, camera student QR code scan பண்ண.",
+          "speech": "நெக்ஸ்ட், அலவ் ஆக்சஸ் கிளிக் பண்ணுங்க. ஜி பி எஸ், லைவ் ட்ராக்கிங்குக்கு. கேமரா, ஸ்டூடன்ட் க்யூ ஆர் கோட் ஸ்கேன் பண்ண."
+        },
+        {
+          "title": "Pickup / Drop",
+          "caption": "Home screen-ல trip type select பண்ணுங்க. Pickup-னா students-ஐ school-க்கு pick பண்றது. Drop-னா திரும்ப அவங்க stopping-ல drop பண்றது.",
+          "speech": "ஹோம் ஸ்க்ரீன்ல ட்ரிப் டைப் செலக்ட் பண்ணுங்க. பிக்கப்னா, ஸ்டூடன்ட்ஸ ஸ்கூலுக்கு பிக் பண்றது. டிராப்னா, திரும்ப அவங்க ஸ்டாப்பிங்ல டிராப் பண்றது."
+        },
+        {
+          "title": "உங்க Speed",
+          "caption": "இந்த Current Speed card உங்க vehicle speed-ஐ show பண்ணும். Green-ஆ இருந்தா safe speed. GPS off-ஆ இருந்தா Turn on click பண்ணுங்க.",
+          "speech": "இந்த கரண்ட் ஸ்பீட் கார்டு, உங்க வெஹிக்கிள் ஸ்பீட ஷோ பண்ணும். க்ரீனா இருந்தா, சேஃப் ஸ்பீட். ஜி பி எஸ் ஆஃப்ல இருந்தா, டர்ன் ஆன் கிளிக் பண்ணுங்க."
+        },
+        {
+          "title": "Stopping-ல",
+          "caption": "Stopping reach ஆனதும், vehicle-ல ஏறுற ஒவ்வொரு student-க்கும் Onboard click பண்ணுங்க. அப்புறம் Continue Route click பண்ணுங்க.",
+          "speech": "ஸ்டாப்பிங் ரீச் ஆனதும், வெஹிக்கிள்ல ஏறுற ஒவ்வொரு ஸ்டூடன்ட்டுக்கும், ஆன்போர்டு கிளிக் பண்ணுங்க. அப்புறம், கன்டின்யூ ரூட் கிளிக் பண்ணுங்க."
+        },
+        {
+          "title": "New Student Add",
+          "caption": "New student add பண்ண, bottom menu-ல Map Student click பண்ணுங்க. QR code-ஐ box-க்குள்ள காட்டுங்க. Automatic-ஆ scan ஆகிடும்.",
+          "speech": "நியூ ஸ்டூடன்ட் ஆட் பண்ண, பாட்டம் மெனுல மேப் ஸ்டூடன்ட் கிளிக் பண்ணுங்க. க்யூ ஆர் கோட, பாக்ஸுக்குள்ள காட்டுங்க. ஆட்டோமேட்டிக்கா ஸ்கேன் ஆகிடும்."
+        },
+        {
+          "title": "Students List",
+          "caption": "Students tab-ல எல்லா students-ஐயும் stopping wise பார்க்கலாம். Name வச்சு search பண்ணலாம், status-ம் check பண்ணலாம்.",
+          "speech": "ஸ்டூடன்ட்ஸ் டேப்ல, எல்லா ஸ்டூடன்ட்ஸையும் ஸ்டாப்பிங் வைஸ் பார்க்கலாம். நேம் வச்சு சர்ச் பண்ணலாம், ஸ்டேட்டஸும் செக் பண்ணலாம்."
+        },
+        {
+          "title": "Live Location",
+          "caption": "Location tab-ல உங்க route map, next stopping, distance, time எல்லாம் தெரியும்.",
+          "speech": "லொகேஷன் டேப்ல, உங்க ரூட் மேப், நெக்ஸ்ட் ஸ்டாப்பிங், டிஸ்டன்ஸ், டைம் எல்லாம் தெரியும்."
+        },
+        {
+          "title": "Profile",
+          "caption": "Profile-ல உங்க details edit பண்ணலாம், Light, Dark theme change பண்ணலாம், இந்த guide-ஐ எப்ப வேணும்னாலும் பார்க்கலாம். Thank you, safe-ஆ drive பண்ணுங்க!",
+          "speech": "ப்ரொஃபைல்ல, உங்க டீடெயில்ஸ் எடிட் பண்ணலாம். லைட், டார்க் தீம் சேஞ்ச் பண்ணலாம். இந்த கைட, எப்ப வேணும்னாலும் பார்க்கலாம். தேங்க் யூ, சேஃபா டிரைவ் பண்ணுங்க!"
+        }
+      ]
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "voice": "hi-IN-SwaraNeural",
+      "rate": "-5%",
+      "stepLabel": "चरण {n} / {total}",
+      "steps": [
+        {
+          "title": "स्वागत है",
+          "caption": "नमस्ते! ArivanAI Track में आपका स्वागत है। इस छोटी सी guide में देखेंगे कि app कैसे use करना है, step by step."
+        },
+        {
+          "title": "OTP से Sign in",
+          "caption": "पहले अपना mobile number डालें और Get OTP पर tap करें। SMS में आया 6 अंकों का OTP डालकर Verify & Sign In पर tap करें। अभी के लिए OTP 123456 है।",
+          "speech": "पहले अपना mobile number डालें और Get OTP पर tap करें। SMS में आया छह अंकों का OTP डालकर Verify and Sign In पर tap करें। अभी के लिए OTP है, एक, दो, तीन, चार, पाँच, छह।"
+        },
+        {
+          "title": "Driver की जानकारी",
+          "caption": "पहली बार sign in करने पर, अपना नाम, licence number, गाड़ी का type और गाड़ी का number भरें। फिर Save & Continue पर tap करें। यह सिर्फ एक बार करना है।",
+          "speech": "पहली बार sign in करने पर, अपना नाम, licence number, गाड़ी का type और गाड़ी का number भरें। फिर Save and Continue पर tap करें। यह सिर्फ एक बार करना है।"
+        },
+        {
+          "title": "GPS और Camera की अनुमति",
+          "caption": "इसके बाद Allow Access पर tap करें। GPS live tracking के लिए है, और camera student का QR code scan करने के लिए।"
+        },
+        {
+          "title": "Pickup या Drop चुनें",
+          "caption": "Home screen पर अपना trip type चुनें। Pickup मतलब students को school ले जाना। Drop मतलब उन्हें वापस उनके stopping पर छोड़ना।"
+        },
+        {
+          "title": "अपनी Speed देखें",
+          "caption": "यह Current Speed card आपकी गाड़ी की speed दिखाता है। Green colour मतलब safe speed। अगर GPS off है, तो Turn on पर tap करें।"
+        },
+        {
+          "title": "हर Stopping पर",
+          "caption": "Stopping पर पहुँचकर, गाड़ी में चढ़ने वाले हर student के लिए Onboard पर tap करें। उसके बाद Continue Route पर tap करें।"
+        },
+        {
+          "title": "नया Student जोड़ें",
+          "caption": "नया student add करने के लिए, नीचे menu में Map Student पर tap करें। QR code को box के अंदर रखें। यह अपने आप scan हो जाएगा।"
+        },
+        {
+          "title": "आपके Students",
+          "caption": "Students tab में आप अपने सारे students, stopping के हिसाब से देख सकते हैं। नाम से search कर सकते हैं और status check कर सकते हैं।"
+        },
+        {
+          "title": "Live Location",
+          "caption": "Location tab में आपका route map, अगला stopping, distance और time दिखता है।"
+        },
+        {
+          "title": "Profile",
+          "caption": "Profile में आप अपनी details edit कर सकते हैं, Light या Dark theme बदल सकते हैं, और यह guide कभी भी दोबारा देख सकते हैं। धन्यवाद, सुरक्षित drive करें!"
+        }
+      ]
+    }
+  ]
+}

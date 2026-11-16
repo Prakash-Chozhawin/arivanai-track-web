@@ -31539,7 +31539,7 @@ $iPJ:1}
 A.aEN.prototype={
 $1(a){var s=A.dd().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"canvaskit/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/371f77202a73e8dff57a8b3bff75bca55c090aee/":s)+a},
 $S:122}
 A.MS.prototype={
 l(){if(this.b)return
